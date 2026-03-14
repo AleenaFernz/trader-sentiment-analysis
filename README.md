@@ -188,7 +188,7 @@ This suggests that **volatile markets create larger profit opportunities but als
 
 ---
 
-# 🔍 Key Findings
+#  Key Findings
 
 Several behavioral patterns emerge from this analysis.
 
@@ -222,7 +222,7 @@ Despite higher average profitability, greed markets also show larger negative ou
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Python  
 - Pandas  
